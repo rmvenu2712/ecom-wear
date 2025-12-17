@@ -1,6 +1,6 @@
 export default function AboutPage() {
   return (
-    <div className="bg-white animate-in fade-in duration-500">
+    <div className="bg-white overflow-hidden animate-in fade-in duration-500">
       <div className="mx-auto max-w-4xl px-4 py-16 sm:px-6 lg:px-8">
         <h1 className="mb-8 text-4xl font-bold animate-in slide-in-from-top duration-500">About Us</h1>
 

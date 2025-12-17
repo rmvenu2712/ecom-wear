@@ -45,7 +45,7 @@ export const products: Product[] = [
     originalPrice: 2499,
     discount: 28,
     image: "/men-s-dark-blue-slim-fit-denim-jeans.jpg",
-    images: ["/men-s-dark-blue-slim-fit-denim-jeans.jpg", "/men-s-dark-blue-slim-fit-denim-jeans-back.jpg"], // Added multiple images support for product detail view
+    images: ["/men-s-dark-blue-slim-fit-denim-jeans.jpg", "/men-s-dark-blue-slim-fit-denim-jeans.jpg"], // Added multiple images support for product detail view
     category: "Jeans",
     description: "Comfortable stretch denim with modern slim fit. Features classic 5-pocket styling.",
     sizes: ["28", "30", "32", "34", "36"],
