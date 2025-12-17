@@ -45,7 +45,7 @@ export const products: Product[] = [
     originalPrice: 2499,
     discount: 28,
     image: "/men_products/mens-levis-511-slim-fit-jeans-mid-wash-size-30-32-genuine-e8.jpg",
-    images: ["/men_products/mens-levis-511-slim-fit-jeans-mid-wash-size-30-32-genuine-e8.jpg", "/men_products/Level Jeans™ _ Organic Denim _ Men's Slim Straight Fit _ Blue Classic.jpg"], // Added multiple images support for product detail view
+    images: ["/men_products/mens-levis-511-slim-fit-jeans-mid-wash-size-30-32-genuine-e8.jpg", "/men_products/level-jeans-organic-denim-mens-slim-straight-fit-blue-classic.jpg"], // Added multiple images support for product detail view
     category: "Jeans",
     description: "Comfortable stretch denim with modern slim fit. Features classic 5-pocket styling.",
     sizes: ["28", "30", "32", "34", "36"],
