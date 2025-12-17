@@ -27,7 +27,7 @@ export const products: Product[] = [
     originalPrice: 1999,
     discount: 35,
     image: "/men-s-blue-oxford-button-down-shirt.jpg",
-    images: ["/men-s-blue-oxford-button-down-shirt.jpg", "/men-s-blue-oxford-button-down-shirt-back.jpg"], // Added multiple images support for product detail view
+    images: ["/men-s-blue-oxford-button-down-shirt.jpg", "/men_products/Classic flex casual shirt.jpg"], // Added multiple images support for product detail view
     category: "Shirts",
     description: "Premium cotton oxford shirt with button-down collar. Perfect for both casual and formal occasions.",
     sizes: ["S", "M", "L", "XL", "XXL"],
@@ -44,8 +44,8 @@ export const products: Product[] = [
     price: 1799,
     originalPrice: 2499,
     discount: 28,
-    image: "/men-s-dark-blue-slim-fit-denim-jeans.jpg",
-    images: ["/men-s-dark-blue-slim-fit-denim-jeans.jpg", "/men-s-dark-blue-slim-fit-denim-jeans.jpg"], // Added multiple images support for product detail view
+    image: "/men_products/Level Jeans™ _ Organic Denim _ Men's Slim Straight Fit _ Blue Classic.jpg",
+    images: ["/men_products/Level Jeans™ _ Organic Denim _ Men's Slim Straight Fit _ Blue Classic.jpg", "/men_products/Men’s Levi’s 511 Slim Fit Jeans Mid Wash Size 30_32 Genuine E8.jpg"], // Added multiple images support for product detail view
     category: "Jeans",
     description: "Comfortable stretch denim with modern slim fit. Features classic 5-pocket styling.",
     sizes: ["28", "30", "32", "34", "36"],
@@ -60,8 +60,8 @@ export const products: Product[] = [
     name: "Leather Jacket",
     slug: "leather-jacket",
     price: 4999,
-    image: "/men-s-black-leather-biker-jacket.jpg",
-    images: ["/men-s-black-leather-biker-jacket.jpg", "/men-s-black-leather-biker-jacket-back.jpg"], // Added multiple images support for product detail view
+    image: "/men_products/download.jpg",
+    images: ["/men_products/download.jpg", "/men_products/Fall Leather Jacket Black - Aesthetic.jpg"], // Added multiple images support for product detail view
     category: "Jackets",
     description: "Genuine leather jacket with quilted shoulders. Classic biker style with multiple pockets.",
     sizes: ["S", "M", "L", "XL"],
@@ -79,7 +79,7 @@ export const products: Product[] = [
     originalPrice: 3499,
     discount: 29,
     image: "/white-athletic-running-shoes-sneakers.jpg",
-    images: ["/white-athletic-running-shoes-sneakers.jpg", "/white-athletic-running-shoes-sneakers-back.jpg"], // Added multiple images support for product detail view
+    images: ["/white-athletic-running-shoes-sneakers.jpg", "/men_products/Nike Sportswear Womens V2K Run - Summit White_Metallic Silver - Trainers - Womens Shoes _ Pro_Direct Soccer.jpg"], // Added multiple images support for product detail view
     category: "Shoes",
     description: "Lightweight running shoes with cushioned sole. Breathable mesh upper for maximum comfort.",
     sizes: ["7", "8", "9", "10", "11"],
@@ -97,7 +97,7 @@ export const products: Product[] = [
     originalPrice: 1299,
     discount: 31,
     image: "/men-s-green-polo-shirt-casual.jpg",
-    images: ["/men-s-green-polo-shirt-casual.jpg", "/men-s-green-polo-shirt-casual-back.jpg"], // Added multiple images support for product detail view
+    images: ["/men-s-green-polo-shirt-casual.jpg", "/men_products/polo_tshirts.jpg"], // Added multiple images support for product detail view
     category: "Shirts",
     description: "Breathable cotton polo with ribbed collar and cuffs. Perfect for casual weekends.",
     sizes: ["S", "M", "L", "XL", "XXL"],
@@ -115,7 +115,7 @@ export const products: Product[] = [
     originalPrice: 2199,
     discount: 27,
     image: "/men-s-beige-chino-pants-trousers.jpg",
-    images: ["/men-s-beige-chino-pants-trousers.jpg", "/men-s-beige-chino-pants-trousers-back.jpg"], // Added multiple images support for product detail view
+    images: ["/men-s-beige-chino-pants-trousers.jpg", "/men_products/Permanent designs, obsessively refined.jpg"], // Added multiple images support for product detail view
     category: "Trousers",
     description: "Classic fit chino trousers in premium cotton twill. Versatile style for work or casual wear.",
     sizes: ["28", "30", "32", "34", "36", "38"],
@@ -131,7 +131,7 @@ export const products: Product[] = [
     slug: "hooded-sweatshirt",
     price: 1399,
     image: "/men-s-grey-hoodie-sweatshirt.jpg",
-    images: ["/men-s-grey-hoodie-sweatshirt.jpg", "/men-s-grey-hoodie-sweatshirt-back.jpg"], // Added multiple images support for product detail view
+    images: ["/men-s-grey-hoodie-sweatshirt.jpg", "/men_products/Cozy Everyday Essential _ Men’s Pullover Hoodie (Big & Tall Available).jpg"], // Added multiple images support for product detail view
     category: "Hoodies",
     description: "Cozy fleece hoodie with kangaroo pocket. Perfect layering piece for cooler days.",
     sizes: ["S", "M", "L", "XL", "XXL"],
@@ -149,7 +149,7 @@ export const products: Product[] = [
     originalPrice: 5999,
     discount: 33,
     image: "/men-s-navy-blue-formal-blazer-suit-jacket.jpg",
-    images: ["/men-s-navy-blue-formal-blazer-suit-jacket.jpg", "/men-s-navy-blue-formal-blazer-suit-jacket-back.jpg"], // Added multiple images support for product detail view
+    images: ["/men-s-navy-blue-formal-blazer-suit-jacket.jpg", "/men_products/Classy Meets Contemporary_ 21 Stylish Suits Every Modern Man Needs -.jpg"], // Added multiple images support for product detail view
     category: "Blazers",
     description: "Tailored fit blazer in premium wool blend. Two-button front with notch lapels.",
     sizes: ["38", "40", "42", "44", "46"],
@@ -166,8 +166,8 @@ export const products: Product[] = [
     price: 699,
     originalPrice: 999,
     discount: 30,
-    image: "/men-s-black-graphic-print-t-shirt.jpg",
-    images: ["/men-s-black-graphic-print-t-shirt.jpg", "/men-s-black-graphic-print-t-shirt-back.jpg"], // Added multiple images support for product detail view
+    image: "/men_products/T-Shirt design.jpg",
+    images: ["/men_products/T-Shirt design.jpg", "/men_products/download (1).jpg"], // Added multiple images support for product detail view
     category: "T-Shirts",
     description: "Comfortable cotton t-shirt with bold graphic print. Relaxed fit for everyday wear.",
     sizes: ["S", "M", "L", "XL", "XXL"],
@@ -183,7 +183,7 @@ export const products: Product[] = [
     slug: "leather-belt",
     price: 799,
     image: "/men-s-brown-leather-belt-buckle.jpg",
-    images: ["/men-s-brown-leather-belt-buckle.jpg", "/men-s-brown-leather-belt-buckle-back.jpg"], // Added multiple images support for product detail view
+    images: ["/men-s-brown-leather-belt-buckle.jpg", "/men_products/Two-layer Leather Belt - Thick Brush Buckle Brown _ 125cm.jpg"], // Added multiple images support for product detail view
     category: "Accessories",
     description: "Genuine leather belt with classic buckle. Essential accessory for formal and casual looks.",
     sizes: ["32", "34", "36", "38", "40"],
@@ -203,7 +203,7 @@ export const products: Product[] = [
     originalPrice: 2999,
     discount: 37,
     image: "/women-s-pink-floral-maxi-dress-summer.jpg",
-    images: ["/women-s-pink-floral-maxi-dress-summer.jpg", "/women-s-pink-floral-maxi-dress-summer-back.jpg"], // Added multiple images support for product detail view
+    images: ["/women-s-pink-floral-maxi-dress-summer.jpg", "/women_products/HOUSE OF CB Tallulah Floral Cotton Blend Sundress in White_Pink Floral at Nordstrom, Size X-Large.jpg"], // Added multiple images support for product detail view
     category: "Dresses",
     description: "Elegant floral print maxi dress with flowing silhouette. Perfect for summer occasions.",
     sizes: ["XS", "S", "M", "L", "XL"],
@@ -219,7 +219,7 @@ export const products: Product[] = [
     slug: "silk-blouse",
     price: 1599,
     image: "/women-s-white-silk-blouse-elegant.jpg",
-    images: ["/women-s-white-silk-blouse-elegant.jpg", "/women-s-white-silk-blouse-elegant-back.jpg"], // Added multiple images support for product detail view
+    images: ["/women-s-white-silk-blouse-elegant.jpg", "/women_products/Women Plain Front Button Long Sleeve Casual Top, Minimalist,Hollowed Costumes,Thanksgiving Women Outfit,Princess Women Costume,Greek Goddess Costume,Cowgirl Women Outfits, Costume.jpg"], // Added multiple images support for product detail view
     category: "Tops",
     description: "Luxurious silk blouse with delicate detailing. Versatile piece for office or evening wear.",
     sizes: ["XS", "S", "M", "L"],
@@ -237,7 +237,7 @@ export const products: Product[] = [
     originalPrice: 2199,
     discount: 23,
     image: "/women-s-black-high-waist-skinny-jeans.jpg",
-    images: ["/women-s-black-high-waist-skinny-jeans.jpg", "/women-s-black-high-waist-skinny-jeans-back.jpg"], // Added multiple images support for product detail view
+    images: ["/women-s-black-high-waist-skinny-jeans.jpg", "/women_products/download (3).jpg"], // Added multiple images support for product detail view
     category: "Jeans",
     description: "Flattering high-waist skinny jeans with stretch comfort. Modern fit with classic styling.",
     sizes: ["24", "26", "28", "30", "32"],
@@ -253,7 +253,7 @@ export const products: Product[] = [
     slug: "designer-handbag",
     price: 3999,
     image: "/women-s-beige-leather-designer-handbag.jpg",
-    images: ["/women-s-beige-leather-designer-handbag.jpg", "/women-s-beige-leather-designer-handbag-back.jpg"], // Added multiple images support for product detail view
+    images: ["/women-s-beige-leather-designer-handbag.jpg", "/women_products/The Best Designer Bags to Invest in 2025 - FROM LUXE WITH LOVE.jpg"], // Added multiple images support for product detail view
     category: "Accessories",
     description: "Premium leather handbag with gold hardware. Spacious interior with multiple compartments.",
     sizes: ["One Size"],
@@ -271,7 +271,7 @@ export const products: Product[] = [
     originalPrice: 1799,
     discount: 28,
     image: "/women-s-cream-knit-cardigan-sweater.jpg",
-    images: ["/women-s-cream-knit-cardigan-sweater.jpg", "/women-s-cream-knit-cardigan-sweater-back.jpg"], // Added multiple images support for product detail view
+    images: ["/women-s-cream-knit-cardigan-sweater.jpg", "/women_products/Crochet Charms_ Toys & Coasters.jpg"], // Added multiple images support for product detail view
     category: "Sweaters",
     description: "Cozy knit cardigan with button closure. Perfect layering piece for transitional weather.",
     sizes: ["XS", "S", "M", "L", "XL"],
@@ -286,8 +286,8 @@ export const products: Product[] = [
     name: "Formal Pencil Skirt",
     slug: "formal-pencil-skirt",
     price: 1199,
-    image: "/placeholder.svg?height=400&width=400",
-    images: ["/placeholder.svg?height=400&width=400", "/placeholder.svg?height=400&width=400"], // Added multiple images support for product detail view
+    image: "/women_products/Pencil Skirt Business Casual Outfit.jpg",
+    images: ["/women_products/Pencil Skirt Business Casual Outfit.jpg", "/women_products/download (2).jpg"], // Added multiple images support for product detail view
     category: "Skirts",
     description: "Classic pencil skirt in stretch fabric. Professional silhouette perfect for the office.",
     sizes: ["XS", "S", "M", "L", "XL"],
@@ -304,8 +304,8 @@ export const products: Product[] = [
     price: 599,
     originalPrice: 899,
     discount: 33,
-    image: "/placeholder.svg?height=400&width=400",
-    images: ["/placeholder.svg?height=400&width=400", "/placeholder.svg?height=400&width=400"], // Added multiple images support for product detail view
+    image: "/women_products/Michael Stars Tops _ Michael Stars White Sleeveless Tank Top _ Color_ Pink_White _ Size_ Os.jpg",
+    images: ["/women_products/Michael Stars Tops _ Michael Stars White Sleeveless Tank Top _ Color_ Pink_White _ Size_ Os.jpg", "/women_products/download (3).jpg"], // Added multiple images support for product detail view
     category: "Tops",
     description: "Essential cotton tank top with scoop neck. Perfect basics for layering or standalone wear.",
     sizes: ["XS", "S", "M", "L", "XL"],
@@ -322,8 +322,8 @@ export const products: Product[] = [
     price: 4999,
     originalPrice: 7999,
     discount: 38,
-    image: "/placeholder.svg?height=400&width=400",
-    images: ["/placeholder.svg?height=400&width=400", "/placeholder.svg?height=400&width=400"], // Added multiple images support for product detail view
+    image: "/women_products/Dress.jpg",
+    images: ["/women_products/Dress.jpg", "/women_products/download (4).jpg"], // Added multiple images support for product detail view
     category: "Dresses",
     description: "Stunning floor-length evening gown with elegant draping. Perfect for special occasions.",
     sizes: ["XS", "S", "M", "L", "XL"],
@@ -338,8 +338,8 @@ export const products: Product[] = [
     name: "Ankle Boots",
     slug: "ankle-boots",
     price: 2499,
-    image: "/placeholder.svg?height=400&width=400",
-    images: ["/placeholder.svg?height=400&width=400", "/placeholder.svg?height=400&width=400"], // Added multiple images support for product detail view
+    image: "/women_products/Women’s Winter Boots with Pointed Toes.jpg",
+    images: ["/women_products/Women’s Winter Boots with Pointed Toes.jpg", "/women_products/download (5).jpg"], // Added multiple images support for product detail view
     category: "Shoes",
     description: "Stylish ankle boots in premium leather. Block heel for comfort and versatile styling.",
     sizes: ["5", "6", "7", "8", "9", "10"],
@@ -356,8 +356,8 @@ export const products: Product[] = [
     price: 1899,
     originalPrice: 2499,
     discount: 24,
-    image: "/placeholder.svg?height=400&width=400",
-    images: ["/placeholder.svg?height=400&width=400", "/placeholder.svg?height=400&width=400"], // Added multiple images support for product detail view
+    image: "/women_products/13 Ways To Wear A Denim Jacket This Fall 2025 - The Catalog by Celine.jpg",
+    images: ["/women_products/13 Ways To Wear A Denim Jacket This Fall 2025 - The Catalog by Celine.jpg", "/women_products/fall outfit inspo aesthetic school   slightly oversized denim jacket, worn open over a fitted, black long-sleeved top_ _ high-waisted, black leggings__.jpg"], // Added multiple images support for product detail view
     category: "Jackets",
     description: "Classic denim jacket with vintage wash. Timeless piece that goes with everything.",
     sizes: ["XS", "S", "M", "L", "XL"],
@@ -369,15 +369,15 @@ export const products: Product[] = [
   },
 
   // Kids' Products
-  {
+  { 
     id: "21",
     name: "Cartoon T-Shirt",
     slug: "cartoon-t-shirt",
     price: 599,
     originalPrice: 899,
     discount: 33,
-    image: "/placeholder.svg?height=400&width=400",
-    images: ["/placeholder.svg?height=400&width=400", "/placeholder.svg?height=400&width=400"], // Added multiple images support for product detail view
+    image: "/kids_products/kids_product (1).jpg",
+    images: ["/kids_products/kids_product (1).jpg", "/kids_products/kids_product (13).jpg"], // Added multiple images support for product detail view
     category: "T-Shirts",
     description: "Fun cartoon print t-shirt in soft cotton. Comfortable and durable for active kids.",
     sizes: ["2-3Y", "4-5Y", "6-7Y", "8-9Y", "10-11Y"],
@@ -392,8 +392,8 @@ export const products: Product[] = [
     name: "Denim Shorts",
     slug: "denim-shorts",
     price: 799,
-    image: "/placeholder.svg?height=400&width=400",
-    images: ["/placeholder.svg?height=400&width=400", "/placeholder.svg?height=400&width=400"], // Added multiple images support for product detail view
+    image: "/kids_products/kids_product (6).jpg",
+    images: ["/kids_products/kids_product (6).jpg", "/kids_products/kids_product (7).jpg"], // Added multiple images support for product detail view
     category: "Shorts",
     description: "Classic denim shorts with adjustable waist. Perfect for summer play and adventures.",
     sizes: ["2-3Y", "4-5Y", "6-7Y", "8-9Y"],
@@ -410,8 +410,8 @@ export const products: Product[] = [
     price: 1299,
     originalPrice: 1799,
     discount: 28,
-    image: "/placeholder.svg?height=400&width=400",
-    images: ["/placeholder.svg?height=400&width=400", "/placeholder.svg?height=400&width=400"], // Added multiple images support for product detail view
+    image: "/kids_products/kids_product (12).jpg",
+    images: ["/kids_products/kids_product (12).jpg", "/kids_products/kids_product (19).jpg"], // Added multiple images support for product detail view
     category: "Shoes",
     description: "Exciting light-up sneakers that flash with every step. Comfortable and fun for kids.",
     sizes: ["10", "11", "12", "13", "1", "2"],
@@ -426,8 +426,8 @@ export const products: Product[] = [
     name: "Character Backpack",
     slug: "character-backpack",
     price: 999,
-    image: "/placeholder.svg?height=400&width=400",
-    images: ["/placeholder.svg?height=400&width=400", "/placeholder.svg?height=400&width=400"], // Added multiple images support for product detail view
+    image: "/kids_products/kids_product (3).jpg",
+    images: ["/kids_products/kids_product (3).jpg", "/kids_products/kids_product (8).jpg"], // Added multiple images support for product detail view
     category: "Accessories",
     description: "Fun character backpack with padded straps. Perfect size for school or outings.",
     sizes: ["One Size"],
@@ -444,8 +444,8 @@ export const products: Product[] = [
     price: 899,
     originalPrice: 1299,
     discount: 31,
-    image: "/placeholder.svg?height=400&width=400",
-    images: ["/placeholder.svg?height=400&width=400", "/placeholder.svg?height=400&width=400"], // Added multiple images support for product detail view
+    image: "/kids_products/kids_product (15).jpg",
+    images: ["/kids_products/kids_product (15).jpg", "/kids_products/kids_product (14).jpg"], // Added multiple images support for product detail view
     category: "Dresses",
     description: "Adorable cotton dress with cute print. Comfortable and easy to wear for everyday fun.",
     sizes: ["2-3Y", "4-5Y", "6-7Y", "8-9Y"],
@@ -460,8 +460,8 @@ export const products: Product[] = [
     name: "Hoodie Set",
     slug: "hoodie-set",
     price: 1199,
-    image: "/placeholder.svg?height=400&width=400",
-    images: ["/placeholder.svg?height=400&width=400", "/placeholder.svg?height=400&width=400"], // Added multiple images support for product detail view
+    image: "/kids_products/kids_product (5).jpg",
+    images: ["/kids_products/kids_product (5).jpg", "/kids_products/kids_product (20).jpg"], // Added multiple images support for product detail view
     category: "Sets",
     description: "Matching hoodie and pants set in soft fleece. Perfect for casual wear and playtime.",
     sizes: ["2-3Y", "4-5Y", "6-7Y", "8-9Y", "10-11Y"],
@@ -478,8 +478,8 @@ export const products: Product[] = [
     price: 999,
     originalPrice: 1399,
     discount: 29,
-    image: "/placeholder.svg?height=400&width=400",
-    images: ["/placeholder.svg?height=400&width=400", "/placeholder.svg?height=400&width=400"], // Added multiple images support for product detail view
+    image: "/kids_products/kids_product (4).jpg",
+    images: ["/kids_products/kids_product (4).jpg", "/kids_products/kids_product (16).jpg"], // Added multiple images support for product detail view
     category: "Pants",
     description: "Durable cargo pants with multiple pockets. Great for adventures and everyday wear.",
     sizes: ["2-3Y", "4-5Y", "6-7Y", "8-9Y", "10-11Y"],
@@ -494,8 +494,8 @@ export const products: Product[] = [
     name: "Sports Jacket",
     slug: "sports-jacket-kids",
     price: 1399,
-    image: "/placeholder.svg?height=400&width=400",
-    images: ["/placeholder.svg?height=400&width=400", "/placeholder.svg?height=400&width=400"], // Added multiple images support for product detail view
+    image: "/kids_products/kids_product (11).jpg",
+    images: ["/kids_products/kids_product (11).jpg", "/kids_products/kids_product (17).jpg"], // Added multiple images support for product detail view
     category: "Jackets",
     description: "Lightweight sports jacket with hood. Perfect for outdoor activities and sports.",
     sizes: ["2-3Y", "4-5Y", "6-7Y", "8-9Y", "10-11Y"],
@@ -510,8 +510,8 @@ export const products: Product[] = [
     name: "Swimwear Set",
     slug: "swimwear-set",
     price: 899,
-    image: "/placeholder.svg?height=400&width=400",
-    images: ["/placeholder.svg?height=400&width=400", "/placeholder.svg?height=400&width=400"], // Added multiple images support for product detail view
+    image: "/kids_products/kids_product (10).jpg",
+    images: ["/kids_products/kids_product (10).jpg", "/kids_products/kids_product (18).jpg"], // Added multiple images support for product detail view
     category: "Swimwear",
     description: "Fun and comfortable swimwear for pool and beach. Quick-drying and UV protective.",
     sizes: ["2-3Y", "4-5Y", "6-7Y", "8-9Y"],
@@ -526,8 +526,8 @@ export const products: Product[] = [
     name: "School Uniform Set",
     slug: "school-uniform-set",
     price: 1499,
-    image: "/placeholder.svg?height=400&width=400",
-    images: ["/placeholder.svg?height=400&width=400", "/placeholder.svg?height=400&width=400"], // Added multiple images support for product detail view
+    image: "/kids_products/kids_product (2).jpg",
+    images: ["/kids_products/kids_product (2).jpg", "/kids_products/kids_product (9 ).jpg"], // Added multiple images support for product detail view
     category: "Uniforms",
     description: "Complete school uniform set with shirt and pants. Durable fabric for daily wear.",
     sizes: ["2-3Y", "4-5Y", "6-7Y", "8-9Y", "10-11Y"],
